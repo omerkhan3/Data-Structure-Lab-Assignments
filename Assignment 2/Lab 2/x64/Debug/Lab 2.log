@@ -1,0 +1,8 @@
+﻿  Text.cpp
+c:\users\omer khan\documents\2211\lab 2\lab 2\text.cpp(6): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\omer khan\documents\2211\lab 2\lab 2\text.cpp(8): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\omer khan\documents\2211\lab 2\lab 2\text.cpp(15): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Lab 2.cpp
+  Generating Code...
